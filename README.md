@@ -15,7 +15,6 @@ Add authentication to applications and secure services with minimum effort. No n
 
 Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.
 
-
 ## Help and Documentation
 
 * [Documentation](https://www.keycloak.org/documentation.html)
